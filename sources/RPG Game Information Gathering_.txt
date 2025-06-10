@@ -1,0 +1,204 @@
+﻿________________
+3. Society of Dreamers
+* Author(s): Matthijs Holter. Graphic design by Martin Blystad.
+   * Source: 7
+* Description:
+   * Society of Dreamers is a story game set in early 19th century Europe. Players take on the roles of members of a clandestine group who believe in the existence of "mnemosites"—autonomous life forms inhabiting people's dreams. The game narrative explores the members' lives from childhood, the society's formation, and their collective investigation into the nature of these dream entities, employing both scientific and mystical approaches.
+   * Source: 7
+* Gameplay & Mechanics:
+   * This game is designed for 2-5 players and is GM-less, intended to be played in a single evening session of approximately four hours or more.8 Gameplay unfolds across four distinct acts:
+      1. Pregame (Act 1): Players create characters and explore their childhoods and youths through individual scenes, during which the first "facts" about mnemosites are revealed and recorded on cards.
+      2. Exposition (Act 2): The Society officially forms and begins its investigation, often focusing on a specific "Dreamer" (an individual affected by a mnemosite). Scene types may be determined using a game board in a Ouija-like fashion, and more fact cards are generated.
+      3. Weaving (Act 3): The narrative threads begin to converge as players work to reincorporate previously established facts into new scenes, deepening the story.
+      4. Ending (Act 4): The story reaches its climax, and the fates of both the characters and the mnemosites are determined.
+   * Players take turns acting as the "instructor" for scenes, guiding the focus and introducing elements. Dream scenes have specific protocols, with one player (the "dream diver," with eyes closed) describing what they perceive while other players dictate their actions within the dream.8 The author emphasizes an exploratory and cooperative play style, where enjoyment derives from shared storytelling and the organic unfolding of the narrative.8
+* Tags:
+   * Difficulty: Medium
+   * Market: Indie
+   * Play Style: Multiplayer (Story Game, GM-less)
+* Clarifications:
+   * Society of Dreamers is a noteworthy example of the "Nordic Larp" or "story game" design movement, which prioritizes collaborative, GM-less storytelling and emergent narratives over tactical challenges or pre-defined plots. The mechanics, such as the rotating instructor role, the creation and reincorporation of "fact cards," and the structured four-act progression, are all tailored to facilitate this specific style of introspective and cooperative play.8 The suggested minimum play time of four hours and the need for active player contribution to a shared narrative place its difficulty at "Medium," not due to complex rules, but because of the improvisational skills and commitment required for a fulfilling experience.
+________________
+4. Until We Sink
+* Author(s): The specific author is not explicitly named in the provided snippets 9, but the game is identified as a translation of a Norwegian roleplaying game, indicative of the Norwegian design community's influence.10
+* Description:
+   * Until We Sink is a collaborative, GM-less storytelling game. The setting is a diminutive, gradually submerging resort island in the Pacific Ocean. Characters are either natives or holiday guests. The game commences shortly after a fishing enthusiast is discovered dead. The narrative unfolds across five to seven "days," with each day's play centered on an evening conversation among the characters on the hotel patio. The core of the game is the collective creation of explanations for a series of mysterious and ominous events.
+   * Source: 9
+* Gameplay & Mechanics:
+   * Players select character cards, ensuring at least one or two native islanders are represented.9 Each "day" of game time, an event card is drawn, introducing a new mystery or occurrence (e.g., "Femur," "Mysterious free tickets").9 Through their characters' dialogue during the patio conversations, players must collaboratively devise and establish explanations for these events. A critical rule is that these player-generated explanations become immutable truths within the game world; characters are forbidden from lying to submit a false explanation for an event card.9 An evening's conversation concludes when two characters have left the patio.9 The game progresses until the "The island sinks" event card is drawn, leading to a final scene where characters are adrift on a boat, and all remaining mysteries are typically resolved.9 The game emphasizes cooperation, with no individual winner.9
+* Tags:
+   * Difficulty: Easy to Medium
+   * Market: Indie
+   * Play Style: Multiplayer (Story Game, GM-less)
+* Clarifications:
+   * Until We Sink showcases a design philosophy focused on emergent narrative through constrained improvisation. The rule preventing characters from lying about event card explanations is a cornerstone of its mechanics, compelling players to build upon established facts and collaboratively construct a coherent, shared story.9 While the core loop is simple (draw card, discuss, explain), making it lean towards "Easy," the demand for improvisation and sustained collaborative storytelling might present a "Medium" challenge for players less accustomed to this style. The game's origins within the Norwegian indie scene clearly mark it as "Indie".10 The inherent tension of the sinking island and the unfolding mystery provides a compelling backdrop for character interaction and collaborative problem-solving.
+________________
+5. The Extraordinary Adventures of Baron Munchausen
+* Author(s): The game is framed as being written by Baron Munchausen himself, a persona for the actual designer, James Wallis. The third edition from Magnum Opus Press features art by Omar Rayyan.
+   * Source: 12
+* Description:
+   * The Extraordinary Adventures of Baron Munchausen is a lighthearted, competitive storytelling game. Typically, 3-5 players assume the roles of 18th-century nobles who gather, often in a social setting like a tavern, to regale each other with outrageously exaggerated and improvised tales of their supposed exploits. The game thrives on humor, quick wit, repartee, and good-natured one-upmanship as participants interrupt and challenge the veracity of each other's narratives.
+   * Source: 12
+* Gameplay & Mechanics:
+   * The game is GM-less, requires no advance preparation, and a round can be played in under an hour.12 Players take turns as the active storyteller, often beginning their tale with a prompt (the book provides over 200 such prompts, or players can create their own). As a story unfolds, other players can interject with objections, challenges, or leading questions (e.g., "But Baron, was that before or after you wrestled the crocodile?"). The storyteller must deftly incorporate these interruptions into their narrative or wittily rebuff them. Instead of dice, the game uses "money" (tokens, coins, or even actual currency) and implies the presence of "fine wines" (or other agreed-upon stakes) for wagers.12 When a challenge is made, wagers can be placed. The flow of these wagers and the collective acclaim of the players determine the "winner" of the round – the player judged to have told the most entertaining and extraordinary tale. The third edition includes several variants, such as simplified rules for younger or inebriated players, and rules for online play.12
+* Tags:
+   * Difficulty: Easy
+   * Market: Indie
+   * Play Style: Multiplayer (Story Game, Party Game)
+* Clarifications:
+   * This game is a seminal work in the "story game" or "New Style" RPG movement that gained prominence in the early 2000s.12 Its mechanics are elegantly designed to directly foster improvisational and competitive storytelling, moving away from traditional RPG conventions like dice-based task resolution and GM-adjudicated narratives. The simplicity of its rules and its focus on humor and social interaction make it highly accessible ("Easy"). Despite achieving wider recognition and having editions from publishers like Fantasy Flight 12, its origins and core design philosophy place it firmly in the "Indie" category. It excels as a "Multiplayer" experience and is particularly well-suited as a party game. The optional, thematically appropriate encouragement of drinking 13 underscores its convivial and social nature, though it is explicitly not a requirement for play.
+
+
+________________
+7. Apothecaria
+* Author(s): Anna Blackwell.
+   * Source: 16
+* Description:
+   * Apothecaria is a solo journaling role-playing game in which the player assumes the character of a village witch. The core activity involves creating potions to aid various local inhabitants—villagers, adventurers, and even monsters—who seek assistance for a multitude of unique ailments such as "Fairy Fever," "Candlesick," and "Yeti Chest." The game strives for a humorous, cozy, and wondrous atmosphere, drawing inspiration from media like Theme Hospital, Stardew Valley, and Studio Ghibli films.
+   * Source: 16
+* Gameplay & Mechanics:
+   * Designed for solo play, Apothecaria requires a standard deck of playing cards (including Jokers), a journal, and a writing implement.16 Gameplay revolves around drawing cards, which likely trigger prompts or events related to villagers seeking aid, ingredient gathering, or local happenings. The player responds to these prompts by writing in their journal, developing stories, chronicling encounters (e.g., with "thieving fairies" or "sleeping giants"), and devising potion recipes. This journal becomes a personalized artifact of play. Apothecaria is intended as a long-term game, allowing the player to gradually develop their character, the village, and its inhabitants. An underlying narrative element involves discovering what happened to a missing witch, providing a longer-term goal.16
+* Tags:
+   * Difficulty: Easy to Medium
+   * Market: Indie
+   * Play Style: Solo, Journal
+* Clarifications:
+   * Apothecaria is a prominent example of the burgeoning "cozy RPG" and solo journaling game genres. Its mechanics are intentionally streamlined (card draws, journaling prompts) to be accessible and to stimulate creativity, emphasizing gentle storytelling and world-building over conflict resolution or complex strategic play.16 The rules overhead is "Easy," but the sustained creative effort involved in journaling and developing a narrative over time contributes to a "Medium" level of engagement. Published by Metal Weave Games and also sold directly by the creator, Anna Blackwell, it is firmly an "Indie" title. The comparisons to Stardew Valley and Studio Ghibli films are strong indicators of its intended charming, wholesome, and slightly whimsical tone.16
+________________
+8. IronValley
+* Author(s): M. Kirin (also known as MistreKirin).
+   * Source: 18
+* Description:
+   * IronValley is described as a "cozy solo ttrpg hack" of the well-regarded Ironsworn and Ironsworn: Starforged systems. In this game, players embody an individual relocating to a small, welcoming community to begin a new chapter in their life. Potential activities include restoring a family farm, exploring a mysterious nearby forest, developing relationships, and perhaps even falling in love. The game's thematic focus is on "living a cozy life with good company, one day at a time," drawing inspiration from popular life and farming simulation video games such as Animal Crossing, Story of Seasons (Harvest Moon), and Stardew Valley.
+   * Source: 18
+* Gameplay & Mechanics:
+   * The game adapts the "moves" structure from the Ironsworn system, simplifying them for a cozier experience. A central mechanical and thematic element is "making and keeping promises"—to oneself, to friends, or even to "frienemies".18 Time progresses as the player takes actions, emphasizing daily routines and goals. Players can significantly customize their version of the Valley using "world truths," which define aspects like the technological level (e.g., medieval village versus contemporary rural town) and the nature of its inhabitants (e.g., adorable animals or fantastical ancestries). The game boasts over 50 pages of "cozy oracles" designed to provide inspiration, generate plot hooks, and help create characters and events.19 Relationship development with "Townies" is a key feature, facilitated by a gift-giving system where players earn "favor" and can unlock "heart events." Gameplay includes options for farming, foraging, establishing a shop, and raising various types of livestock, including fantastical creatures like slimes or "Beaver Weavers".18
+* Tags:
+   * Difficulty: Medium
+   * Market: Indie
+   * Play Style: Solo (Primary), Journal (Implied), Multiplayer (Optional)
+* Clarifications:
+   * IronValley demonstrates a creative adaptation of a robust, typically grim fantasy or sci-fi RPG system (Ironsworn) to an entirely different, lighthearted, and "cozy" genre. This transformation highlights the flexibility of the underlying "Powered by the Apocalypse" (PbtA) design principles, from which Ironsworn itself is derived, allowing for significant thematic reskinning while retaining core action resolution mechanics. The "Make it a Promise!" mechanic appears to be a thematic parallel to Ironsworn's "Swear an Iron Vow" move. Despite "simplified moves," the 250-page count and the foundation of the Ironsworn system suggest a "Medium" difficulty, offering more mechanical depth than many simpler journaling games.18 Published on platforms like itch.io and DriveThruRPG by an individual creator, it is an "Indie" game. While primarily designed for solo play, the mention of "New Game Modes! Play with friends with new added game modes" 19 makes "Multiplayer (Optional)" a relevant tag. The extensive oracles are a hallmark of solo RPGs, designed to provide emergent content and surprises for the player in the absence of a GM.
+________________
+9. The Wandering Library
+* Author(s): AP. (Also credited with art and game design).
+   * Source: 20
+* Description:
+   * The Wandering Library is a solo journaling role-playing game. The player takes on the persona of the proprietor of a mobile library—which may have been acquired through purchase, construction, or inheritance. The core experience involves traveling with this library, encountering a diverse array of customers, exploring new and varied locations, and diligently tending to the library's collection of books. The game is structured to generate prompts that fuel the player's journaling and storytelling.
+   * Source: 21
+* Gameplay & Mechanics:
+   * Designed for solo play, the game requires two six-sided dice (2d6) and the player's preferred method of journaling (e.g., a notebook, digital document).20 Players utilize tables provided within the game rules to generate prompts. These prompts guide the exploration of different locations and the nature of encounters with various people. The player then records these adventures, character interactions, and library-related events in their journal. The game was originally created for the One-Page RPG Jam 2023, indicating its concise design origins.21
+* Tags:
+   * Difficulty: Easy
+   * Market: Indie
+   * Play Style: Solo, Journal
+* Clarifications:
+   * The Wandering Library exemplifies the accessible and often charming nature of one-page RPGs and micro-RPGs, a popular category within the indie TTRPG scene. Its core concept is highly evocative, providing a simple yet rich framework that allows for considerable player imagination and creativity. The origin as a "One-Page RPG Jam 2023" entry and the minimal required components (2d6, journal) point to an "Easy" ruleset, making it approachable for players new to solo RPGs or journaling games.21 The gameplay loop—rolling on tables for prompts and then journaling the resulting narrative—is characteristic of many solo journaling experiences. As a title published on itch.io and Ko-fi by an individual creator, it is firmly in the "Indie" market. The play style is exclusively "Solo" and centered around "Journaling." The availability of translations into several languages 21 suggests a notable level of community engagement and appreciation for such a compact game.
+________________
+10. Anamnesis
+* Author(s): Samantha Leigh (Writing). Editing by Marx Shepherd, Layout by Thomas Manuel, and Art by Victor Winter. The game is published by Blinking Birch Games.
+   * Source: 22
+* Description:
+   * Anamnesis is a solo journaling role-playing game focused on themes of self-discovery, introspection, and the construction of identity. The player steps into the role of an individual who awakens with profound memory loss—they do not recall who they are, their location, or what they hold dear. The game is a journey of filling in these narrative blanks, exploring the character's forgotten past, and uncovering aspects of their present self.
+   * Source: 22
+* Gameplay & Mechanics:
+   * The central mechanic of Anamnesis involves drawing tarot cards. These cards are not used for traditional divination but serve as evocative prompts that guide the player in exploring and defining their character's lost memories and evolving identity.22 Players record their thoughts, memories, and the unfolding story in a journal. Importantly, no prior familiarity with tarot reading is necessary to play the game. A typical session of Anamnesis is estimated to take between 2 to 4 hours. The objective is not to win or lose, but to collaboratively (with the prompts) tell a compelling story and discover the identity of the character being portrayed. The game can also function as a character creation tool for other role-playing games.22
+* Tags:
+   * Difficulty: Easy to Medium
+   * Market: Indie
+   * Play Style: Solo, Journal, Tarot
+* Clarifications:
+   * Anamnesis effectively utilizes the symbolic depth of tarot cards as a randomized story prompt generator, specifically tailored to themes of memory, identity, and introspection. This approach is a common and impactful technique in contemporary indie RPG design. While the mechanical action is simple ("Easy"—draw a card, interpret its imagery and associated prompt, then write), the introspective nature of the game and the potentially emotional themes it explores ("tender, personal, thought-provoking, moving, terrifying, raw," as quoted from a designer in 22) may present a "Medium" level of creative and emotional engagement for some players. Published by Blinking Birch Games, a small press, it falls into the "Indie" category. The play style is unequivocally "Solo" and "Journal"-based, with "Tarot" being a defining mechanical and thematic component. Its nomination for an ENNIE Award for "Best Electronic Book" 22 signifies critical recognition within the broader RPG community.
+________________
+11. Notorious
+* Author(s): Written & Designed by Jason Price. Artwork by Torben Bökemeyer.
+   * Source: 24 (derived from 24)
+* Description:
+   * Notorious is a solo role-playing game that casts the player as a "Nomad," a bounty hunter operating within a science fiction universe heavily inspired by media such as Star Wars and other space operas. Nomads in this setting adhere to a particular code of conduct, but players have the agency to deviate from this code, understanding that such choices will likely lead to narrative consequences. The game is centered around the pursuit and capture of targets across various planets.
+   * Source: 24
+* Gameplay & Mechanics:
+   * Players manage three primary attributes for their Nomad: Notoriety (reputation on the current planet), Favour (standing with the Nomad's Guild), and Motivation (a resource that can be spent to re-roll dice). Interactions with Non-Player Characters (NPCs) are guided by four potential "Reactions": Speak, Attack, Threaten, and Recruit. The success of these reactions is determined by rolling a Nomad die (a six-sided die, or d6) and adding relevant attribute modifiers, then comparing this to a Challenge die (another d6).24
+   * Character creation involves selecting a class (e.g., The Armour, The Assassin, The Scoundrel), which comes with a basic loadout of weapons and armor. Players also randomly determine their character's Origins, Scars (visible traits that can affect interactions), Triggers (elements that might cause deviation from the Nomad code), Species, and Personality. The core gameplay loop consists of an Exploration phase (rolling on tables to generate events, potentially finding Leads to the target), followed by travel to Destinations (which lead to further encounters). This loop repeats, with the likelihood of finding a Lead increasing with Notoriety. Eventually, this process culminates in a Showdown with the target. Showdowns are framed by narratively defined "Sites" (unique locations) and "Settings" (conditions at the site).24
+* Tags:
+   * Difficulty: Medium
+   * Market: Indie
+   * Play Style: Solo, Journal (Implied)
+* Clarifications:
+   * Notorious is designed to offer a structured yet adaptable solo RPG experience that emulates the tropes of the space opera bounty hunter genre. The mechanics for attributes, reactions, and the defined play loop provide a clear framework for adventure, while oracular elements (implied by "roll on the Exploration table") generate emergent narrative content.24 The system, with its multiple attributes, dice-based resolution, character classes, and structured play phases, suggests a "Medium" level of difficulty, being more mechanically involved than simpler prompt-based journaling games. As an independent creation, it is classified as "Indie." While not explicitly termed a journaling game in the snippets, the nature of solo play, tracking attributes, leads, and story progression makes journaling a natural and almost necessary component of the experience. Community feedback suggests it is quite approachable, particularly for those new to solo RPGs, which positions its difficulty towards the lower end of the "Medium" spectrum.25 The wirebound format of its physical edition was noted as a practical aid for solo play, facilitating easier reference during the game.25
+________________
+12. Princess with a Cursed Sword
+* Author(s): Anna Anthropy. Illustrations are by Rayne Klar.
+   * Source: 26
+* Description:
+   * Princess with a Cursed Sword is a highly concise solo journaling role-playing game, designed to fit on a single printed page. The player takes on the role of a princess found within ancient ruins, encumbered by a finely made gown and, more significantly, a dark, cursed sword that she cannot relinquish. Her quest is to discover the sword's origins in the hope of finally being freed from its influence. The game encourages the player to write their journal entries in the third person, as if transcribing a fairy tale.
+   * Source: 26
+* Gameplay & Mechanics:
+   * This solo game utilizes a standard tarot deck and two coins (or, as an alternative, six-sided dice where odd numbers represent tails and even numbers represent heads).26 Players explore the ruins by drawing a tarot card; the imagery of the card, in conjunction with game prompts, helps determine what the princess discovers in various locations like stone courts, torchlit dungeons, or overgrown gardens. When the princess faces challenges, the player flips two coins. The outcome of these flips dictates success or failure—success might manifest as the princess displaying supernatural prowess, while failure could mean she staggers or stumbles. A central recurring decision point involves whether the princess will give in to the sword's desires in exchange for wielding its power. The game prompts reflection on the sacrifices the princess might be willing to make to either rid herself of the sword or, perhaps, to embrace what it offers.26
+* Tags:
+   * Difficulty: Easy
+   * Market: Indie
+   * Play Style: Solo, Journal, Tarot
+* Clarifications:
+   * Princess with a Cursed Sword is a quintessential example of minimalist and evocative game design, a style often associated with its author, Anna Anthropy. It masterfully leverages the symbolic richness of tarot cards and extremely simple chance-based mechanics (coin flips) to create a potentially deep and narratively focused personal experience, all within the constraints of a single page of rules.26 The "one printed page" format and basic components clearly place its difficulty as "Easy." Anna Anthropy is a well-known "Indie" designer. The game is explicitly designed for "Solo" play and is a "Journaling" game, with "Tarot" cards being a core mechanical element. The availability of a System Resource Document (SRD) for the "Princess Sword" system 26 is a significant aspect, as it encourages other designers to create their own games using this framework. This practice of sharing systems is common in the indie RPG community and fosters a collaborative design environment. The existence of sequels like Tavern at the End of the World and The Empress and Her Seer 26 demonstrates the adaptability and appeal of this minimalist system.
+________________
+13. Ironsworn: Starforged
+* Author(s): Shawn Tomkin.
+   * Source: 28
+* Description:
+   * Ironsworn: Starforged is a standalone science fiction iteration and evolution of the acclaimed Ironsworn role-playing game. Players assume the roles of spacefaring heroes committed to undertaking perilous quests, known as "iron vows," within a vast and enigmatic galaxy referred to as the Forge. The game involves exploring uncharted regions of space, uncovering cosmic secrets, and forging significant relationships with characters encountered during their travels. Thematic inspirations are drawn from a range of science fiction media, including The Mandalorian, the original Star Wars trilogy, Firefly, Alien, Dune, and Battlestar Galactica.
+   * Source: 28
+* Gameplay & Mechanics:
+   * Starforged employs a system of narrative-driven "moves," inspired by the Apocalypse World engine, to resolve actions that are dangerous or have uncertain outcomes. When a player character makes such a move, the player rolls an action die (a d6) and compares it against two challenge dice (ten-sided dice, or $d10$s). The results of this roll determine the outcome: a "strong hit" (full success), a "weak hit" (success but with a cost, complication, or partial effect), or a "miss" (failure, often leading to significant negative consequences that drive the story forward).28
+   * The game is versatile in its play modes, explicitly supporting solo play, cooperative play (GM-less with multiple players), and guided play (with one player acting as a traditional Game Master).28 A hallmark of the system is its extensive array of oracles and random generators. These tools allow for the on-the-fly creation of planets, space stations, NPCs, alien creatures, starships, ancient derelicts, and more, effectively eliminating the need for advance preparation by a GM or solo player.29 Players track their character's statistics, resources (such as health, spirit, supply), and progress on vows using a character sheet. As they complete quests, make discoveries, and form bonds, they gain experience, which can be spent to acquire "assets"—these include vehicles, starship modules, character paths or skills, companions, and significant deeds—that enhance their abilities and narrative options.28
+* Tags:
+   * Difficulty: Medium to Difficult
+   * Market: Indie
+   * Play Style: Solo, Multiplayer (Co-op or Guided), Oracles
+* Clarifications:
+   * Ironsworn: Starforged, along with its fantasy predecessor Ironsworn, represents a significant advancement in the design of solo and GM-less role-playing games. It provides a robust and engaging framework that genuinely supports emergent, long-form campaign play without requiring a traditional Game Master. The core dice mechanic (action die versus two challenge dice) is particularly elegant, producing nuanced outcomes that inherently propel the fiction forward.28 The comprehensive 404-page rulebook and the detailed mechanics suggest a level of complexity beyond "Easy." While meticulously designed to be playable solo without a GM, mastering the interplay of moves, oracles, progress tracking, and narrative pacing presents a learning curve, placing its difficulty in the "Medium to Difficult" range. Despite its considerable success and high production values, Starforged originates from an independent creator and publisher (Shawn Tomkin/Tomkin Press), thus fitting the "Indie" market classification. Its strong emphasis on "fiction-first" play—where the narrative circumstances and character actions trigger specific mechanical moves, rather than players simply selecting actions from a list—is a characteristic feature of games derived from the PbtA design philosophy.
+________________
+14. Artefact
+* Author(s): Jack Harrison (Mousehole Press).
+   * Source: 30 (It should be noted that "Artefact Games" mentioned in 31 is a company specializing in dice and is distinct from the publisher of this RPG).
+* Description:
+   * ARTEFACT is a contemplative story game designed for a single player. In a departure from typical RPGs that focus on adventurers, this game shifts the narrative perspective to that of a single magical item. Players chronicle the item's extensive history as it passes through the possession of numerous, often short-lived, "Keepers" across vast stretches of time. The game explores themes of endurance, loss, and rediscovery from the viewpoint of this enduring object.
+   * Source: 30
+* Gameplay & Mechanics:
+   * Played solo, ARTEFACT benefits from journaling materials, optional art supplies for sketching, and ideally a quiet environment that can be darkened to enhance its contemplative mood.30 The player begins by choosing an archetype for their Artefact (options include The Weapon, The Shield, The Instrument, The Tome, etc.), sketching its appearance, and defining its magical properties and origins. The game then progresses through cycles: the Artefact is acquired by a "Keeper," and the player answers prompts about this Keeper, their life, and the role the Artefact played during their time together. The Artefact itself has limited agency but can influence its Keepers through its magical nature or perceived will. Between Keepers, the Artefact enters a period of "Rest," during which the player decides how much time elapses and what events or changes occur in the world around the inert item. This cycle of acquisition, use, and rest continues until the Artefact is perhaps finally lost, broken, or abandoned forever. The game can also serve as a creative tool to generate richly detailed histories for magical items intended for use in other TTRPGs, such as Dungeons & Dragons.30
+* Tags:
+   * Difficulty: Easy to Medium
+   * Market: Indie
+   * Play Style: Solo, Journal
+* Clarifications:
+   * ARTEFACT offers a distinctive and often poignant shift in narrative perspective within the RPG space, focusing on the "biography" of an object rather than a person. This unique approach encourages a different mode of storytelling, one that emphasizes themes of deep time, the legacy of objects, and the transient nature of individual lives when contrasted with the potential endurance of crafted items. The mechanics are primarily prompt-based and journaling-focused, suggesting an "Easy" rules overhead.30 However, the game's explicit aim for "contemplative solo play" and its encouragement of sketching and detailed world-building imply a deeper level of creative and reflective engagement that might feel "Medium" for some players. Published on itch.io by Jack Harrison under the Mousehole Press label, it is an "Indie" title. The play style is definitively "Solo" and "Journal"-centric. The suggestion of an accompanying soundtrack 30 further underscores the game's intention to create an immersive and atmospheric experience.
+________________
+15. Alone Among the Stars
+* Author(s): noroadhome (Takuma Okada).
+   * Source: 32
+* Description:
+   * Alone Among the Stars is a solo (though adaptable for 1+ players) tabletop role-playing game centered on the themes of space exploration and the experience of witnessing wondrous, alien sights. Players assume the role of a solitary adventurer navigating the cosmos, visiting diverse and often mysterious worlds, and documenting their unique discoveries and experiences.
+   * Source: 32
+* Gameplay & Mechanics:
+   * The game employs an extremely minimalist ruleset, requiring only a standard 52-card deck and a single six-sided die (d6).32 To discover a new planet or system to explore, the player rolls the d6. The result of this roll dictates the number of cards the player draws from the deck and places face down. Each of these drawn cards then serves as a prompt for a discovery on that planet. The suit of the card typically indicates the general nature of the discovery (e.g., Hearts might signify Ruins, Diamonds could represent Living Beings, Clubs might denote Plants or other immobile life forms), while the rank of the card may further refine the prompt or detail.33 The player then journals their interpretation of these prompts, usually writing a few sentences per card to describe what their adventurer finds and experiences. The game has no fixed endpoint; it concludes whenever the player decides to cease their explorations.33
+* Tags:
+   * Difficulty: Easy
+   * Market: Indie
+   * Play Style: Solo (Primarily), Journal, Multiplayer (1+ stated)
+* Clarifications:
+   * Alone Among the Stars stands as a prime example of a micro-RPG that achieves a highly evocative and atmospheric experience through extremely streamlined rules. Its core strength lies in the capacity of its simple card-based prompts to ignite the player's imagination, fostering a sense of lonely yet wondrous interstellar exploration. The rules are exceptionally simple to grasp (roll a die, draw cards, interpret prompts based on suit/rank, write a journal entry), making it very "Easy" to pick up and play, even for those entirely new to RPGs or journaling games.32 As an independent creation published on itch.io, it is categorized as "Indie." While it is predominantly known and played as a "Solo" game, the creator does state it is "For 1+ players" 32 and a two-player version named Together Among the Stars exists, indicating "Multiplayer" as a secondary possibility. "Journaling" is the fundamental output and mode of play. The numerous digital adaptations, community-created hacks, and translations mentioned in 32 (such as Twine versions, Twitter bots, a Game Boy port, and various thematic reskins) attest to its significant popularity, its inherent adaptability, and the way such simple, open-ended systems can inspire a wealth of further creativity within the player community. The description of an "average session: A few minutes" 32 likely refers to the exploration of a single planet or a small cluster of discoveries, rather than an entire extended play session.
+________________
+16. Koriko: A Magical Year
+* Author(s): Jack Harrison. The game features illustrations by Deb JJ Lee. (Note: Jack Harrison is also the author of ARTEFACT).
+   * Source: 34
+* Description:
+   * Koriko: A Magical Year is a single-player fantasy tabletop role-playing game. It draws significant inspiration from the animated film Kiki's Delivery Service. In the game, the player narrates the story of a young witch during their inaugural year living in a new city. This year is a period of growth, where the witch endeavors to hone their magical abilities, forge new friendships, navigate challenges, and learn more about themselves and the world. The game's narrative is structured around the progression of the four seasons, and letter writing is an integral component of the experience.
+   * Source: 34
+* Gameplay & Mechanics:
+   * Koriko utilizes a combination of dice, a standard tarot deck, and a journal for its gameplay.35 The game is divided into seven distinct "Volumes," each typically requiring 1-2 hours to complete, and these Volumes guide the player through the changing seasons of the witch's year. For each Volume, the player constructs a "Volume Deck" from their tarot deck; drawing cards from this specialized deck provides the primary story prompts. The suits of the tarot cards generally offer situational or thematic prompts, while the Major Arcana cards are used to introduce "confidantes"—significant non-player characters who will play important roles in the witch's year.35
+   * A unique mechanic in Koriko involves dice stacking for resolving "risky" prompts and "Twists" (special events or challenges). When a player chooses a risky course of action or encounters a Twist, they must physically stack a certain number of dice, with the quantity often related to the character's skill level in the relevant area. Success or failure of the risky action depends on whether this dice tower remains standing. Failure, such as the tower toppling, is not merely a setback but often leads to interesting narrative developments, such as meeting new confidantes, altering the composition of the Volume Deck, or even learning new lessons from the experience. Players also engage in writing letters home (e.g., to a mentor or family) on a seasonal basis, reflecting on their experiences.35
+* Tags:
+   * Difficulty: Medium
+   * Market: Indie
+   * Play Style: Solo, Journal, Tarot
+* Clarifications:
+   * Koriko: A Magical Year thoughtfully combines several popular elements found in contemporary indie RPGs—such as solo play, journaling, and the use of tarot cards for prompts—with an innovative dice-stacking mechanic. This physical dexterity element introduces a tangible and engaging way to represent risk, tension, and consequence, distinguishing it from purely narrative or dice-rolling systems. The game's seasonal structure and the inclusion of letter-writing contribute significantly to its charming, slice-of-life, and coming-of-age atmosphere.35 The multi-Volume structure and the interplay of mechanics like building Volume Decks, managing relationships with confidantes, and the distinctive dice stacking suggest a "Medium" level of complexity and player engagement, making it more involved than simpler one-page or micro-RPGs. Having been funded via Kickstarter and published by its creator, Jack Harrison, it is an "Indie" title. It is explicitly designed for "Solo" play and incorporates "Journaling" and "Tarot" as core components. The game's multiple ENNIE Awards, including Silver for Best Art: Cover and Best Production Values, as well as nominations for Product of the Year and Best Writing 34, indicate a high level of production quality and critical acclaim within the RPG industry, a notable achievement for an independent project. The direct inspiration from Kiki's Delivery Service 34 immediately establishes its intended tone: whimsical, focused on personal growth, and imbued with a sense of gentle magic.
