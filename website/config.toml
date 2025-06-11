@@ -1,0 +1,6 @@
+baseURL = "https://example.github.io/gmless/"
+title = "GMless Games"
+theme = "PaperMod"
+
+[params]
+  homeInfoParams = { Title = "GMless Games", Content = "A collection of GMless game articles." }
